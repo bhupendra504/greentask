@@ -1,0 +1,25 @@
+ *Tools and Technologies Used*
+--->Spring Boot 
+--->JDK - 1.8 or later
+--->Spring MVC
+--->Spring Security 6
+--->Hibernate
+--->Maven
+--->Spring Data JPA
+--->IDE - Eclipse or Spring Tool Suite (STS) or IntelliJ IDEA // Any IDE works
+--->SqLYOG
+
+
+
+1. Create a Spring boot application
+Spring Boot provides a web tool called Spring Initializer to bootstrap an application quickly. Just go to https://start.spring.io/ and generate a new spring boot project.
+
+Use the below details in the Spring boot creation:
+
+Project Name: user-boot-app
+
+Project Type: Maven
+
+Choose dependencies: Spring Web, ,Spring Data JPA, Dev Tools and MySQL Drive
+
+Packaging: Jar
